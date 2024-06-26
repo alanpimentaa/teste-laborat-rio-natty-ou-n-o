@@ -1,2 +1,9 @@
-# texte-laborat-rio-natty-ou-n-o
-texte laboratório-natty-ou-não
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+
+## 🚀 Introdução
+
+> Woooow! Look at this 👀
+
+Olá pessoal, me chamo Alan Pimenta e esse ira ser minha contribuição.
+
+
